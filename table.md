@@ -11,7 +11,7 @@
     <td valign="top">Hover over all icons to check labels.</td>
     <td valign="top">Each icon displays a label.</td>
     <td valign="top">Each icon has labels, and the “Help” icon explains their functions except for “Reset Rotation,” “Zoom In,” and “Zoom Out.”</td>
-    <td valign="top">No Issues or errors.</td>
+    <td valign="top">No issues or errors.</td>
     <td valign="top">The labels for icons on the right of the interface are:  
       <ul>
         <li><strong>System Check All Bots</strong><br> 
@@ -68,6 +68,14 @@
     <td valign="top">The bot went to the end waypoint, but I did not see the journey.</td>
     <td valign="top">No issues/errors.</td>
     <td valign="top">I would put an animation to see the journey the bot takes from beginning to end.
+</td>
+  </tr>
+  <tr>
+    <td valign="top">"Run Mission" with waypoints, then edit the waypoints to add new ones and "Run Mission" again.</td>
+    <td valign="top">The bot should travel the edited waypoint route when I hit "Run Mission" on the bot.</td>
+    <td valign="top">The bot navigated the initial waypoints successfully, but after editing the route and pressing "Run Mission," it remained at waypoint 4 instead of proceeding to waypoint 8.</td>
+    <td valign="top">Possible issue here: the bot should travel to waypoint 8 after the route was edited and the mission was set to run.</td>
+    <td valign="top">I wonder if users are supposed to do it another way to make the bot travel the edited route, or if once the mission starts, you can’t make the bot change positions later.
 </td>
   </tr>
 </table>
