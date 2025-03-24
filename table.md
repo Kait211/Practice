@@ -161,9 +161,17 @@
   <tr>
     <td valign="top">In "Mission Panel," click "Add Run."</td>
     <td valign="top">I expect to be able to "Add Runs."</td>
-    <td valign="top">I was able to duplicate runs for bot 2 after setting bot 1, but am unsure what repeats do because when I "Run Mission," it said Run 1 for bot 1 and Run 2 bot2. I thought repeats meant it would run the mission n times</td>
+    <td valign="top">I was able to duplicate runs for bot 2 after setting bot 1, but am unsure what repeats does because when I "Run Mission," it said Run 1 for bot 1 and Run 2 bot2. I thought repeats meant it would run the mission n times</td>
     <td valign="top">No issues or Errors.</td>
     <td valign="top">I must do more investigation to understand what Repeats does.
+</td>
+  </tr>
+  <tr>
+    <td valign="top">In "Mission Panel," click "Clear Mission."</td>
+    <td valign="top">I expect all runs to be deleted and bots to return to the hub.</td>
+    <td valign="top">The waypoints become transparent, and bots remain where they were last run.</td>
+    <td valign="top">This is a possible issue: "Clear Mission" should probably reset bots, but it does not.</td>
+    <td valign="top">I think the run is deleted, but am unsure why bots remain where they were after the last run that had been deleted.
 </td>
   </tr>
 </table>
