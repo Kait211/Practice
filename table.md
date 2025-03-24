@@ -190,4 +190,12 @@
     <td valign="top">All load missions must first complete a "System Check On All Bots," followed by "Auto Assign Bots" to navigate their waypoints.
 </td>
   </tr>
+  <tr>
+    <td valign="top">"Mission Panel," click "Auto Assign Bots."</td>
+    <td valign="top">Once the mission has loaded successfully, I expect the "Auto Assign Bots" function to assign bots to saved waypoint routes.</td>
+    <td valign="top">The bots were assigned and ran the loaded waypoint routes.</td>
+    <td valign="top">No issues or errors.</td>
+    <td valign="top">With this test, I now understand the "Load Mission" function better.
+</td>
+  </tr>
 </table>
