@@ -309,4 +309,11 @@
     <td valign="top">Low
 </td>
   </tr>
+  <tr>
+    <td valign="top">UI/UX</td>
+    <td valign="top">There is no instructional video on the simulator.</td>
+    <td valign="top">Add a link to a video showing how to run different missions on the simulator. This would help those who are visual learners to use the sim.</td>
+    <td valign="top">Medium
+</td>
+  </tr>
 </table>
