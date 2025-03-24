@@ -63,10 +63,11 @@
     </td>
   </tr>
   <tr>
-    <td valign="top">Another Test Case</td>
-    <td valign="top">Expected outcome for the new test case.</td>
-    <td valign="top">Actual outcome for the new test case.</td>
-    <td valign="top">No issues found in this case.</td>
-    <td valign="top">Additional notes about this new test case.</td>
+    <td valign="top">Place waypoints and “Run Mission” with a bot.</td>
+    <td valign="top">The Bot should “Run Mission” and show run through the waypoints.</td>
+    <td valign="top">The bot went to the end waypoint, but I did not see the journey.</td>
+    <td valign="top">No issues/errors.</td>
+    <td valign="top">I would put an animation to see the journey the bot takes from beginning to end.
+</td>
   </tr>
 </table>
