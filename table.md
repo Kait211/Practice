@@ -203,7 +203,7 @@
     <td valign="top">I expect that when I download a CSV or KMZ file, it will be saved to my computer.</td>
     <td valign="top">When I click to download a CSV or KMZ file, the file is saved to my computer, but it appears blank except for the titles. I'm unsure how the data is being added.</td>
     <td valign="top">No issues of errors</td>
-    <td valign="top">
+    <td valign="top">I did a run with a bot using waypoints, then downloaded the CSV, but saw no data on it. I'm not sure what task causes data to be written, so I need to investigate this feature further.
 </td>
   </tr>
 </table>
