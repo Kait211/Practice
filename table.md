@@ -220,7 +220,11 @@
     <td valign="top">
     <ul>
         <li><strong>Task Packets:</strong>
-        <li><circle>Has clusters setting but am unsure what this does<circle>
+      </li>
+    </ul>
+    <ul style = "color: white; list-style-type: none;">
+        <li>○ Has clusters setting but am unsure what this does</li>
+    </ul>
     </td>
     <td valign="top">test</td>
     <td valign="top">test
