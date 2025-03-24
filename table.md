@@ -242,8 +242,8 @@
         </ul>
     </ul>
     </td>
-    <td valign="top">test</td>
-    <td valign="top">test
+    <td valign="top">Contacts have nothing inside it; this could be an issue.</td>
+    <td valign="top">In addition to this, I must investigate these settings further. I tested their features and noticed that they change the simulation environment, but I’m unclear on how they are utilized when testing the bots through the simulator.
 </td>
   </tr>
 </table>
