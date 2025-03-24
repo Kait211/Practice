@@ -126,4 +126,12 @@
     <td valign="top">It seems when I put waypoints for bots from the rally point, they don’t move; unsure why.
 </td>
   </tr>
+  <tr>
+    <td valign="top">I placed two rally points, then go into "Edit Optimized Mission Survey." Then I click and drag on the sim map, then click apply in the "Optimize Mission Panel."</td>
+    <td valign="top">I assume this will have an effect on the rally points.</td>
+    <td valign="top">Waypoints are created from start rally to end rally. Then when I click on "Run Mission," all bots travel to the end rally.</td>
+    <td valign="top">No issues or errors</td>
+    <td valign="top">Seems that I can only do this between two rally points because when I tried three, only the first two got connected.
+</td>
+  </tr>
 </table>
