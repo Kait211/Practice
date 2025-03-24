@@ -246,4 +246,12 @@
     <td valign="top">In addition to this, I must investigate these settings further. I tested their features and noticed that they change the simulation environment, but I’m unclear on how they are utilized when testing the bots through the simulator.
 </td>
   </tr>
+  <tr>
+    <td valign="top">Click on the "Reset Rotation" icon.</td>
+    <td valign="top">I expect that when I click "Reset Rotation," the map rotation will be reset.</td>
+    <td valign="top">When I click the "Reset Rotation" icon, I see no noticeable change, but this could be because I did not change the map rotation. I am currently unsure how to change the map’s rotation.</td>
+    <td valign="top">No issues or errors.</td>
+    <td valign="top">I should investigate this icon further because I am unsure of its function and use.
+</td>
+  </tr>
 </table>
