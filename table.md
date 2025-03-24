@@ -150,4 +150,12 @@
     <td valign="top">"Undo" can be used a maximum of ten times in a row.
 </td>
   </tr>
+  <tr>
+    <td valign="top">Open "Mission Panel" and understand the icons inside it and their function.</td>
+    <td valign="top">I expect to see icons and understand their functions.</td>
+    <td valign="top">I see icons, and they are all clearly labeled, telling me what they are.</td>
+    <td valign="top">No issues or errors</td>
+    <td valign="top">The icons in mission panel are<br>- Add Run<br>- Clear Mission<br>- Load Mission<br>- Save Mission<br>-Auto Assign Bots
+</td>
+  </tr>
 </table>
