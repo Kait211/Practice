@@ -134,4 +134,12 @@
     <td valign="top">Seems that I can only do this between two rally points because when I tried three, only the first two got connected.
 </td>
   </tr>
+  <tr>
+    <td valign="top">Undoing last action</td>
+    <td valign="top">I assume when I place a waypoint and then hit "Undo," the waypoint will disappear.</td>
+    <td valign="top">The previous action is reverted, and the waypoint is effectively deleted.</td>
+    <td valign="top">No issues or errors</td>
+     <td valign="top">"Undo" is a very useful tool that can be utilized when using the simulator.
+</td>
+  </tr>
 </table>
