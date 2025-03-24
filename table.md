@@ -66,7 +66,7 @@
     <td valign="top">Place waypoints and “Run Mission” with a bot.</td>
     <td valign="top">The Bot should “Run Mission” and show run through the waypoints.</td>
     <td valign="top">The bot went to the end waypoint, but I did not see the journey.</td>
-    <td valign="top">No issues/errors.</td>
+    <td valign="top">No issues or errors.</td>
     <td valign="top">I would put an animation to see the journey the bot takes from beginning to end.
 </td>
   </tr>
@@ -90,7 +90,7 @@
     <td valign="top">Run system check with offline bots.</td>
     <td valign="top">Offline bots are flagged, and system check fails.</td>
     <td valign="top">When I clicked run systems, it says "Alert: The command cannot be sent to Bots: 1, 2, 3, 4 because the status age is greater than 30."</td>
-    <td valign="top">No issues or errors</td>
+    <td valign="top">No issues or errors.</td>
     <td valign="top">What does status age mean? Time bot has been unconnected to the hub possibly?
 </td>
   </tr>
@@ -98,7 +98,7 @@
     <td valign="top">"Run Mission" without a system check.</td>
     <td valign="top">Mission should not start.</td>
     <td valign="top">Mission does not start and this message appears: "The command: START_MISSION cannot be sent because the bot is in the incorrect state. Available States: IN_MISSION_*, PRE_DEPLOYMENT_WAIT_FOR_MISSION_PLAN."</td>
-    <td valign="top">No issues or Errors</td>
+    <td valign="top">No issues or Errors.</td>
     <td valign="top">Users must always do a "System Check On All Bots" for a mission to start.
 </td>
   </tr>
@@ -106,7 +106,7 @@
     <td valign="top">See what happens if I kill all processes while the simulator is running.</td>
     <td valign="top">I expect the bots and waypoints to disappear.</td>
     <td valign="top">Connection dropped to Hub. </td>
-    <td valign="top">No issues or Errors</td>
+    <td valign="top">No issues or Errors.</td>
     <td valign="top">Killing all processes seems to just drop the connection.
 </td>
   </tr>
@@ -122,7 +122,7 @@
     <td valign="top">Click on rally point and click the play button.</td>
     <td valign="top">I am unsure what this will do, but I assume at least one bot will travel to the rally point.</td>
     <td valign="top">All bots travel to the rally point.</td>
-    <td valign="top">No issues or errors</td>
+    <td valign="top">No issues or errors.</td>
     <td valign="top">It seems when I put waypoints for bots from the rally point, they don’t move; unsure why.
 </td>
   </tr>
@@ -130,7 +130,7 @@
     <td valign="top">I placed two rally points, then go into "Edit Optimized Mission Survey." Then I click and drag on the sim map, then click apply in the "Optimize Mission Panel."</td>
     <td valign="top">I assume this will have an effect on the rally points.</td>
     <td valign="top">Waypoints are created from start rally to end rally. Then when I click on "Run Mission," all bots travel to the end rally.</td>
-    <td valign="top">No issues or errors</td>
+    <td valign="top">No issues or errors.</td>
     <td valign="top">Seems that I can only do this between two rally points because when I tried three, only the first two got connected.
 </td>
   </tr>
@@ -138,7 +138,7 @@
     <td valign="top">Undoing last action</td>
     <td valign="top">I assume when I place a waypoint and then hit "Undo", the waypoint will disappear.</td>
     <td valign="top">The previous action is reverted, and the waypoint is effectively deleted.</td>
-    <td valign="top">No issues or errors</td>
+    <td valign="top">No issues or errors.</td>
      <td valign="top">"Undo" is a very useful tool that can be utilized when using the simulator.
 </td>
   </tr>
@@ -146,7 +146,7 @@
     <td valign="top">"Undo" multiple times (up to 10).</td>
     <td valign="top">I expect all undos to work correctly and all previous actions to be undone.</td>
     <td valign="top">All previous actions are reverted, and all ten waypoints are deleted.</td>
-    <td valign="top">No issues or errors</td>
+    <td valign="top">No issues or errors.</td>
     <td valign="top">"Undo" can be used a maximum of ten times in a row.
 </td>
   </tr>
@@ -154,8 +154,16 @@
     <td valign="top">Open "Mission Panel" and understand the icons inside it and their function.</td>
     <td valign="top">I expect to see icons and understand their functions.</td>
     <td valign="top">I see icons, and they are all clearly labeled, telling me what they are.</td>
-    <td valign="top">No issues or errors</td>
-    <td valign="top">The icons in mission panel are<br>- Add Run<br>- Clear Mission<br>- Load Mission<br>- Save Mission<br>-Auto Assign Bots
+    <td valign="top">No issues or errors.</td>
+    <td valign="top">The icons in mission panel are<br>- Add Run<br>- Clear Mission<br>- Load Mission<br>- Save Mission<br>- Auto Assign Bots
+</td>
+  </tr>
+  <tr>
+    <td valign="top">In "Mission Panel," click "Add Run."</td>
+    <td valign="top">I expect to be able to "Add Runs."</td>
+    <td valign="top">I was able to duplicate runs for bot 2 after setting bot 1, but am unsure what repeats do because when I "Run Mission," it said Run 1 for bot 1 and Run 2 bot2. I thought repeats meant it would run the mission n times</td>
+    <td valign="top">No issues or Errors.</td>
+    <td valign="top">I must do more investigation to understand what Repeats does.
 </td>
   </tr>
 </table>
