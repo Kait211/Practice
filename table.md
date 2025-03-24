@@ -222,7 +222,7 @@
         <li><strong>Task Packets:</strong>
       </li>
     </ul>
-    <ul style = "color: white; list-style-type: circle;">
+    <ul style = "list-style-type: circle;">
         <li>Has clusters setting but am unsure what this does</li>
     </ul>
     </td>
