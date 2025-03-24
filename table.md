@@ -110,4 +110,12 @@
     <td valign="top">Killing all processes seems to just drop the connection.
 </td>
   </tr>
+  <tr>
+    <td valign="top">Add rally points on the map and then "Run Mission"</td>
+    <td valign="top">I expect to see rally points, and when I press "Run Mission," the bots travel to rally points.</td>
+    <td valign="top">I do see rally points, but when I ran the mission for bot 1, health went down and it said "Health is degraded. Warning: Mission infeasible—mission transit must have a goal."</td>
+    <td valign="top">Bot health degraded, but this was most likely intended since there was no goal for transit.</td>
+    <td valign="top">At this point, I am unsure what rally point does; must investigate it further.
+</td>
+  </tr>
 </table>
