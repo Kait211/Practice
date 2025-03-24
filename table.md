@@ -82,8 +82,16 @@
     <td valign="top">Run "System Check On All Bots".</td>
     <td valign="top">System check completes without errors.</td>
     <td valign="top">The sim displays the message, "Click the OK button to activate Bots: 1, 2, 3, 4." The system check was successful for all bots.</td>
-    <td valign="top">No issues/errors.</td>
+    <td valign="top">No issues or errors.</td>
     <td valign="top">Missions cannot start unless the "System Check On All Bots" is completed.
+</td>
+  </tr>
+  <tr>
+    <td valign="top">Run system check with offline bots.</td>
+    <td valign="top">Offline bots are flagged, and system check fails.</td>
+    <td valign="top">When I clicked run systems, it says "Alert: The command cannot be sent to Bots: 1, 2, 3, 4 because the status age is greater than 30."</td>
+    <td valign="top">No issues or errors</td>
+    <td valign="top">What does status age mean? Time bot has been unconnected to the hub possibly?
 </td>
   </tr>
 </table>
