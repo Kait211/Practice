@@ -94,4 +94,12 @@
     <td valign="top">What does status age mean? Time bot has been unconnected to the hub possibly?
 </td>
   </tr>
+  <tr>
+    <td valign="top">"Run Mission" without a system check.</td>
+    <td valign="top">Mission should not start.</td>
+    <td valign="top">Mission does not start and this message appears: "The command: START_MISSION cannot be sent because the bot is in the incorrect state. Available States: IN_MISSION_*, PRE_DEPLOYMENT_WAIT_FOR_MISSION_PLAN."</td>
+    <td valign="top">No issues or Errors</td>
+    <td valign="top">Users must always do a "System Check On All Bots" for a mission to start.
+</td>
+  </tr>
 </table>
