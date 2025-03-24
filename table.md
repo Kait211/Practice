@@ -232,6 +232,10 @@
           <li>Mission allows me to check Missions, Active Missions, Rally Points, Mission Planning, Course Over Ground, Heading, Hub Comms Limit Circles, and Waypoint Capture Circles.</li>
           <li>Contacts, when opened, has nothing inside it.</li>
         </ul>
+        <li><strong>Engineering:</strong>
+        <ul>
+          <li>Allows me to use features: JAIABOT ENGINEER AND DEBUG, QUERY SELECTED STATUS, QUERY ALL STATUSES, CHANGE GAINS, UPDATE SELECTED BOT, UPDATE ALL BOTS, QUERY BOT STATUS, SCAN FOR BOT, and SCAN FOR ALL BOTS.</li>
+        </ul>
     </ul>
     </td>
     <td valign="top">test</td>
