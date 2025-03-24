@@ -254,4 +254,20 @@
     <td valign="top">I should investigate this icon further because I am unsure of its function and use.
 </td>
   </tr>
+  <tr>
+    <td valign="top">Click on the "Zoom In" icon.</td>
+    <td valign="top">I expect to zoom in on the sim.</td>
+    <td valign="top">I do zoom in on the sim.</td>
+    <td valign="top">No issues or errors.</td>
+    <td valign="top">I can also use the scroll wheel on the mouse to zoom in.
+</td>
+  </tr>
+  <tr>
+    <td valign="top">Click on the "Zoom Out" icon.</td>
+    <td valign="top">I expect to zoom out on the sim.</td>
+    <td valign="top">I do zoom out on the sim.</td>
+    <td valign="top">No issues or errors.</td>
+    <td valign="top">I can also use the scroll wheel on the mouse to zoom out.
+</td>
+  </tr>
 </table>
