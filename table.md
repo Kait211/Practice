@@ -221,11 +221,10 @@
     <ul>
         <li><strong>Task Packets:</strong>
       </li>
+    </ul>
      <ul style="list-style-type:circle;">
-        <li>HTML</li>
-        <li>CSS</li>
-        <li>Javascript</li>
-        <li>React</li>
+        <li>It has a clusters setting, but I am unsure what this does.</li>
+        <li>Edit dates allows me to have a start date and end date, but I don’t know how this is supposed to be utilized.</li>
     </ul>
     </td>
     <td valign="top">test</td>
