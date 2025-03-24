@@ -136,10 +136,18 @@
   </tr>
   <tr>
     <td valign="top">Undoing last action</td>
-    <td valign="top">I assume when I place a waypoint and then hit "Undo," the waypoint will disappear.</td>
+    <td valign="top">I assume when I place a waypoint and then hit "Undo", the waypoint will disappear.</td>
     <td valign="top">The previous action is reverted, and the waypoint is effectively deleted.</td>
     <td valign="top">No issues or errors</td>
      <td valign="top">"Undo" is a very useful tool that can be utilized when using the simulator.
+</td>
+  </tr>
+  <tr>
+    <td valign="top">"Undo" multiple times (up to 10).</td>
+    <td valign="top">I expect all undos to work correctly and all previous actions to be undone.</td>
+    <td valign="top">All previous actions are reverted, and all ten waypoints are deleted.</td>
+    <td valign="top">No issues or errors</td>
+    <td valign="top">"Undo" can be used a maximum of ten times in a row.
 </td>
   </tr>
 </table>
