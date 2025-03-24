@@ -118,4 +118,12 @@
     <td valign="top">At this point, I am unsure what rally point does; must investigate it further.
 </td>
   </tr>
+  <tr>
+    <td valign="top">Click on rally point and click the play button.</td>
+    <td valign="top">I am unsure what this will do, but I assume at least one bot will travel to the rally point.</td>
+    <td valign="top">All bots travel to the rally point.</td>
+    <td valign="top">No issues or errors</td>
+    <td valign="top">It seems when I put waypoints for bots from the rally point, they don’t move; unsure why.
+</td>
+  </tr>
 </table>
