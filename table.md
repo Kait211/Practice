@@ -206,4 +206,12 @@
     <td valign="top">I did a run with a bot using waypoints, then downloaded the CSV, but saw no data on it. I'm not sure what task causes data to be written, so I need to investigate this feature further.
 </td>
   </tr>
+  <tr>
+    <td valign="top">Click on the "Measure Distance" icon.</td>
+    <td valign="top">I expect to be able to measure a distance.</td>
+    <td valign="top">I am able to measure distance.</td>
+    <td valign="top">No issues or errors</td>
+    <td valign="top">This is a useful tool to measure the distance bots travel.
+</td>
+  </tr>
 </table>
