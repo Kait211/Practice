@@ -290,3 +290,16 @@
 </td>
   </tr>
 </table>
+
+### Suggestions for Improvement
+<br>
+<table>
+  <tr>
+    <th>Area</th>
+    <th>Current Issue</th>
+    <th>Suggested Improvement</th>
+    <th>Priority
+    (Low/Medium/High)
+    </th>
+  </tr>
+</table>
