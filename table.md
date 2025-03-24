@@ -330,4 +330,18 @@
     <td valign="top">High
 </td>
   </tr>
+  <tr>
+    <td valign="top">Bots</td>
+    <td valign="top">When bots are at the rally point, they don’t seem to move when waypoints are placed.</td>
+    <td valign="top">Investigate this issue as it may be a bug that requires troubleshooting.</td>
+    <td valign="top">High
+</td>
+  </tr>
+  <tr>
+    <td valign="top"></td>
+    <td valign="top"></td>
+    <td valign="top"></td>
+    <td valign="top">
+</td>
+  </tr>
 </table>
