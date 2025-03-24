@@ -222,8 +222,8 @@
         <li><strong>Task Packets:</strong>
       </li>
     </ul>
-    <ul style = "color: white; list-style-type: none;">
-        <li>○ Has clusters setting but am unsure what this does</li>
+    <ul style = "color: white; list-style-type: disc;">
+        <li>Has clusters setting but am unsure what this does</li>
     </ul>
     </td>
     <td valign="top">test</td>
