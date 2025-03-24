@@ -236,6 +236,10 @@
         <ul>
           <li>Allows me to use features: JAIABOT ENGINEER AND DEBUG, QUERY SELECTED STATUS, QUERY ALL STATUSES, CHANGE GAINS, UPDATE SELECTED BOT, UPDATE ALL BOTS, QUERY BOT STATUS, SCAN FOR BOT, and SCAN FOR ALL BOTS.</li>
         </ul>
+        <li><strong>Simulation:</strong>
+        <ul>
+          <li>Allows me to "Set Hub" location, where I can change the latitude and longitude of the hub location; I then have the options to SUBMIT VALUES and SELECT ON MAP.</li>
+        </ul>
     </ul>
     </td>
     <td valign="top">test</td>
