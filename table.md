@@ -302,4 +302,11 @@
     (Low/Medium/High)
     </th>
   </tr>
+  <tr>
+    <td valign="top">UI/UX</td>
+    <td valign="top">There is no instruction in help that describes what "Reset Rotation" does.</td>
+    <td valign="top">Add an instruction in "Help" to explain what "Reset Rotation" does.</td>
+    <td valign="top">Low
+</td>
+  </tr>
 </table>
