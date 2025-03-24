@@ -102,4 +102,12 @@
     <td valign="top">Users must always do a "System Check On All Bots" for a mission to start.
 </td>
   </tr>
+  <tr>
+    <td valign="top">See what happens if I kill all processes while the simulator is running.</td>
+    <td valign="top">I expect the bots and waypoints to disappear.</td>
+    <td valign="top">Connection dropped to Hub. </td>
+    <td valign="top">No issues or Errors</td>
+    <td valign="top">Killing all processes seems to just drop the connection.
+</td>
+  </tr>
 </table>
