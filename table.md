@@ -78,4 +78,12 @@
     <td valign="top">I wonder if users are supposed to do it another way to make the bot travel the edited route, or if once the mission starts, you can’t make the bot change positions later.
 </td>
   </tr>
+  <tr>
+    <td valign="top">Run "System Check On All Bots".</td>
+    <td valign="top">System check completes without errors.</td>
+    <td valign="top">The sim displays the message, "Click the OK button to activate Bots: 1, 2, 3, 4." The system check was successful for all bots.</td>
+    <td valign="top">No issues/errors.</td>
+    <td valign="top">Missions cannot start unless the "System Check On All Bots" is completed.
+</td>
+  </tr>
 </table>
