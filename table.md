@@ -270,4 +270,23 @@
     <td valign="top">I can also use the scroll wheel on the mouse to zoom out.
 </td>
   </tr>
+  <tr>
+    <td valign="top">Click on the bot and check the settings inside.</td>
+    <td valign="top">I expect to see all bot functions.</td>
+    <td valign="top">I do see bot functions:
+    <ul>
+      <li>test</li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+    </ul>
+    </td>
+    <td valign="top"></td>
+    <td valign="top">
+</td>
+  </tr>
 </table>
