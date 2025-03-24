@@ -62,4 +62,12 @@
       </ul>
     </td>
   </tr>
+  <tr>
+    <td valign="top">Another Test Case</td>
+    <td valign="top">Expected outcome for the new test case.</td>
+    <td valign="top">Actual outcome for the new test case.</td>
+    <td valign="top">No issues found in this case.</td>
+    <td valign="top">Additional notes about this new test case.</td>
+    <td valign="top">Further remarks or observations for the new test case.</td> <!-- New column content for new row -->
+  </tr>
 </table>
