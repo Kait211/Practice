@@ -224,10 +224,13 @@
           <li>It has a clusters setting, but I am unsure what this does.</li>
           <li>Edit dates allows me to have a start date and end date, but I don’t know how this is supposed to be utilized.</li>
         </ul>
-        <li><strong>new:</strong>
+        <li><strong>Map Layers:</strong>
         <ul>
-          <li>test</li>
-          <li>test</li>
+          <li>It allows me to change the map between ArcGIS Satellite and Open Street Map.</li>
+          <li>Bathymetry allows me to check NOAA ENC Charts and GEBCO Bathymetry.</li>
+          <li>Measurements allow me to check Dive Packets, Depth Contours, Drift Packets, and Drift Map.</li>
+          <li>Mission allows me to check Missions, Active Missions, Rally Points, Mission Planning, Course Over Ground, Heading, Hub Comms Limit Circles, and Waypoint Capture Circles.</li>
+          <li>Contacts, when opened, has nothing inside it.</li>
         </ul>
     </ul>
     </td>
