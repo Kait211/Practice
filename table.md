@@ -174,4 +174,20 @@
     <td valign="top">I think the run is deleted, but am unsure why bots remain where they were after the last run that had been deleted.
 </td>
   </tr>
+  <tr>
+    <td valign="top">In "Mission Panel," click "Save Mission."</td>
+    <td valign="top">I expect the mission I created to save.</td>
+    <td valign="top">The mission did save, and I saved it under the name "test."</td>
+    <td valign="top">No issues or errors.</td>
+    <td valign="top">I understand this function of the mission panel.
+</td>
+  </tr>
+  <tr>
+    <td valign="top">In "Mission Panel," click "Load Mission."</td>
+    <td valign="top">I expect the mission to load and bots to run their created waypoint routes.</td>
+    <td valign="top">The mission loaded, but the bots are not assigned to their waypoints anymore. When I activate the bots and click "Run Mission," I get this message: "Alert: Not sending to bots: 1, 2, 3, 4 because they are not assigned to runs." But upon further investigation, I now understand that you need to click "Auto Assign Bots" to have bots assigned to waypoints and be able to run.</td>
+    <td valign="top">No issues or errors.</td>
+    <td valign="top">All load missions must first complete a "System Check On All Bots," followed by "Auto Assign Bots" to navigate their waypoints.
+</td>
+  </tr>
 </table>
