@@ -224,7 +224,7 @@
           <li>It has a clusters setting, but I am unsure what this does.</li>
           <li>Edit dates allows me to have a start date and end date, but I don’t know how this is supposed to be utilized.</li>
         </ul>
-        </li><strong>new:</strong>
+        <li><strong>new:</strong>
         <ul>
           <li>test</li>
           <li>test</li>
