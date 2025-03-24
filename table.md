@@ -316,4 +316,18 @@
     <td valign="top">Medium
 </td>
   </tr>
+  <tr>
+    <td valign="top">UI/UX</td>
+    <td valign="top">There is no animation showing the bot’s journey from beginning to end when traveling waypoints.</td>
+    <td valign="top">I would add an animation showing the journey the bot takes from beginning to end of waypoints.</td>
+    <td valign="top">Medium
+</td>
+  </tr>
+  <tr>
+    <td valign="top">UI/UX</td>
+    <td valign="top">There is no "Clear All" option to set the simulator back to the default settings.</td>
+    <td valign="top">I would add a "Clear All" or "Reset To Default" option.</td>
+    <td valign="top">High
+</td>
+  </tr>
 </table>
