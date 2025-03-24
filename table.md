@@ -221,9 +221,11 @@
     <ul>
         <li><strong>Task Packets:</strong>
       </li>
-    </ul>
-    <ul style = "list-style-type: circle;">
-        <li>Has clusters setting but am unsure what this does</li>
+     <ul style="list-style-type:circle;">
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>Javascript</li>
+        <li>React</li>
     </ul>
     </td>
     <td valign="top">test</td>
