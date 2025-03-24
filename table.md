@@ -221,7 +221,6 @@
     <ul>
         <li><strong>Task Packets:</strong>
       </li>
-    </ul>
      <ul style="list-style-type:circle;">
         <li>It has a clusters setting, but I am unsure what this does.</li>
         <li>Edit dates allows me to have a start date and end date, but I don’t know how this is supposed to be utilized.</li>
