@@ -275,18 +275,18 @@
     <td valign="top">I expect to see all bot functions.</td>
     <td valign="top">I do see bot functions:
     <ul>
-      <li>test</li>
-      <li></li>
-      <li></li>
-      <li></li>
-      <li></li>
-      <li></li>
-      <li></li>
-      <li></li>
+      <li>quick look</li>
+      <li>commands</li>
+      <li>advanced commands</li>
+      <li>health</li>
+      <li>Data</li>
+      <li>GPS</li>
+      <li>IMU</li>
+      <li>Sensors</li>
     </ul>
     </td>
-    <td valign="top"></td>
-    <td valign="top">
+    <td valign="top">I don’t understand "RC Mode" because when I click on it and move the throttle or rudder, I don’t see the bot move.</td>
+    <td valign="top">Must investigate "RC Mode" further to understand how to utilize it.
 </td>
   </tr>
 </table>
