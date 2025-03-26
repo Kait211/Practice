@@ -351,4 +351,11 @@
     <td valign="top">High
 </td>
   </tr>
+  <tr>
+    <td valign="top">Map Layers</td>
+    <td valign="top">In "Settings" under "Map Layers," the Contacts section is empty.</td>
+    <td valign="top">Something should be displayed under "Contacts." This might require new code to execute.</td>
+    <td valign="top">Low
+</td>
+  </tr>
 </table>
