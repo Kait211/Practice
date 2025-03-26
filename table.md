@@ -338,10 +338,17 @@
 </td>
   </tr>
   <tr>
-    <td valign="top"></td>
-    <td valign="top"></td>
-    <td valign="top"></td>
-    <td valign="top">
+    <td valign="top">Bots</td>
+    <td valign="top">After completing a mission and running a waypoint route, if the route is edited, the bot does not change position when "Run Mission" is selected.</td>
+    <td valign="top">Investigate and troubleshoot this potential bug.</td>
+    <td valign="top">High
+</td>
+  </tr>
+  <tr>
+    <td valign="top">Bots</td>
+    <td valign="top">"Clear Mission" in the "Mission Panel" should reset bots to the hub.</td>
+    <td valign="top">Investigate and troubleshoot this potential bug.</td>
+    <td valign="top">High
 </td>
   </tr>
 </table>
