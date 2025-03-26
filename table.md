@@ -10,6 +10,7 @@
 
 ### Key:
 #Key Note: (This key applies to two tables: "Test Cases & Observations" and "Suggestions for Improvement")
+
 **Test Cases And Observations**
 * **Test case**: The specific scenario or function tested in the simulator.
 * **Expected outcome**: What I think will happen upon test case completion.
