@@ -8,7 +8,8 @@
 <br>
 <a id="key"></a>
 
-# Key:
+<h3>Key</h3>
+
 #Key Note: (This key applies to two tables: "Test Cases & Observations" and "Suggestions for Improvement")
 # **Test Cases And Observations**
 * **Test case**: The specific scenario or function tested in the simulator.
@@ -27,7 +28,8 @@ improvements.
 <br>
 <a id="test-cases-and-observations"></a>
 
-# Test Cases And Observations Table:
+<h3>Test Cases And Observations</h3>
+
 <table>
   <tr>
     <th>Test Case</th>
@@ -323,7 +325,8 @@ improvements.
 <br>
 <a id="suggestions-for-improvement"></a>
 
-# Suggestions for Improvement Table:
+<h3>Suggestions for Improvement</h3>
+
 <br>
 <table>
   <tr>
