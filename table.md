@@ -358,4 +358,11 @@
     <td valign="top">Low
 </td>
   </tr>
+  <tr>
+    <td valign="top">Bot settings </td>
+    <td valign="top">In bot settings under "Command," the function of "RC Mode" is unclear.</td>
+    <td valign="top">There needs to be a clear explanation of what "RC Mode" does and how to use it.</td>
+    <td valign="top">Medium
+</td>
+  </tr>
 </table>
