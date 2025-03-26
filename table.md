@@ -8,7 +8,7 @@
 <br>
 <a id="key"></a>
 
-### Key:
+# Key:
 #Key Note: (This key applies to two tables: "Test Cases & Observations" and "Suggestions for Improvement")
 
 **Test Cases And Observations**
@@ -28,7 +28,7 @@ improvements.
 <br>
 <a id="test-cases-and-observations"></a>
 
-### Test Cases And Observations Table:
+# Test Cases And Observations Table:
 <table>
   <tr>
     <th>Test Case</th>
@@ -324,7 +324,7 @@ improvements.
 <br>
 <a id="suggestions-for-improvement"></a>
 
-### Suggestions for Improvement Table:
+# Suggestions for Improvement Table:
 <br>
 <table>
   <tr>
