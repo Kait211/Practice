@@ -10,14 +10,13 @@
 
 <h3>Key</h3>
 
-#Key Note: (This key applies to two tables: "Test Cases & Observations" and "Suggestions for Improvement")
+# Key Note: (This key applies to two tables: "Test Cases & Observations" and "Suggestions for Improvement")
 # **Test Cases And Observations**
 * **Test case**: The specific scenario or function tested in the simulator.
 * **Expected outcome**: What I think will happen upon test case completion.
 * **Actual Outcome**: What actually happens when executing test case in sim.
 * **Issues/Errors**: Listing any issues or errors I notice when executing test cases.
-* **Notes**: Additional insights, unanswered questions, or considerations for future testing and
-improvements.
+* **Notes**: Additional insights, unanswered questions, or considerations for future testing and improvements.
 
 # **Suggestions for Improvement**
 * **Area**: Specific areas of the simulator that could need improvement.
