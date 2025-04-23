@@ -1,19 +1,19 @@
-# How to Push and Pull In Terminal
+# Master GitHub In Your Terminal
 
 ### Table of Contents:
 - [Creating A SSH Key](#creating-a-ssh-key)
 - [Cloning A Repository](#cloning-a-repository)
 - [Making A New Branch](#making-a-new-branch)
+- [Adding A Remote Repository](#adding-a-remote-repository)
 - [How To Pull From A Branch](#how-to-pull-from-a-branch)
 - [How To Push To A Branch](#how-to-push-to-a-branch)
 - [Opening Jaiabot Repository And Branch From Terminal](#opening-jaiabot-repository-and-branch-from-terminal)
-- [Viewing Commit Hisory](#viewing-commit-history)
+- [Viewing Commit History](#viewing-commit-history)
 - [Checking The Status Of Your Git Repository](#checking-the-status-of-your-git-repository)
 - [How To Merge TWO Branches](#how-to-merge-two-branches)
 - [How To Fix Merge Conflict](#how-to-fix-merge-conflict)
 - [Undoing Changes](#undoing-changes)
 - [Redoing Changes](#redoing-changes)
-# this is the final test
 
 <br>
 <a id="creating-a-ssh-key"></a>
@@ -58,6 +58,29 @@ git clone https://github.com/UserName/nameOfRepo
 ```
 
 <br>
+<a id="adding-a-remote-repository"></a>
+
+# Adding A Remote Repository 
+Note: Add a remote repository (if not already set) in order to be able to pull and push in terminal
+1. If no remote is set yet, add the URL of the GitHub repository you want to connect to
+```
+git remote add origin git@github.com:YourUserName/YourRepoName.git
+```
+2. If remote already exists but you want to update the URL, then set the remote URL
+```
+git remote set-url origin git@github.com:YourUserName/YourRepoName.git
+# Note: jaiabot repo would require this command
+git remote set-url origin git@github.com:jaiarobotics/jaiabot.git
+```
+3. Verify the remote is correctly set
+```
+git remote -v
+# The expected output should look like this
+origin  git@github.com:YourUserName/YourRepoName.git (fetch)
+origin  git@github.com:YourUserName/YourRepoName.git (push)
+```
+
+<br>
 <a id="making-a-new-branch"></a>
 
 # Making A New Branch
@@ -89,7 +112,7 @@ git checkout branchName
 ```
 2. Pull all new changes from branch
 ```
-git pull branchName
+git pull origin branchName
 ```
 3. Enter Visual Studio Code 
 ```
@@ -127,7 +150,7 @@ git push origin branchName
 
 # Opening Jaiabot Repository And Branch From Terminal
 Note: Must clone jaiabot repository before opening it in your browser from terminal.
-1. To open the main reposotory page
+1. To open the main repository page
 ```
 xdg-open https://github.com/jaiarobotics/jaiabot
 ```
@@ -139,7 +162,7 @@ xdg-open https://github.com/jaiarobotics/jaiabot/tree/branchName
 <br>
 <a id="viewing-commit-history"></a>
 
-# Viewing Commit Hisory
+# Viewing Commit History
 1. To see commit log
 ```
 git log
@@ -198,11 +221,56 @@ Note: When merge conflict happens your file like have conflict markers and you n
 1. Open file with merge conflict you should see conflict markers
 2. Decide what changes to keep
 * Review both sets of changes and decide which to keep, or manually combine both changes
-* Remove the conflict markers, keeping only the changes you want.
+* Remove the conflict markers, keeping only the changes, you want.
 3. Then push the changes 
 ```
 # you can stage all modified files by git add . or just the modified file by git add <file-name>
 git add . 
-git commit -m "Resloved merge conflict"
+git commit -m "Resolved merge conflict"
 git push origin branchName
 ```
+<br>
+<a id="undoing-changes"></a>
+
+# Undoing Changes
+1. Check commit log to choose the commit you want to revert to
+```
+git log
+```
+2. Copy the commit ID
+```
+# Commit id should look like this
+commit b17ff34240c09c008ac63c997a18e721273838b0
+```
+3. Reset to that commit
+```
+git reset --hard b17ff34240c09c008ac63c997a18e721273838b0
+```
+4. Force push the reset
+```
+git push origin HEAD --force
+```
+5. verify changes were undone to the selected commit
+
+<br>
+<a id="redoing-changes"></a>
+
+# Redoing Changes
+1. Show the reflog to view previous HEAD positions, including the most recent commit before the reset
+```
+git reflog
+```
+2. Copy the short hash of the commit you want to revert back to
+```
+# Commit hash should look something like this
+0dd5856
+```
+3. Reset to that commit 
+```
+git reset --hard commitHash
+```
+4. Force push the reset
+```
+git push origin HEAD --force
+```
+5. Verify that the changes have been restored
