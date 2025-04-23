@@ -3,14 +3,15 @@
 ### Table of Contents:
 - [Creating A SSH Key](#creating-a-ssh-key)
 - [Cloning A Repository](#cloning-a-repository)
-- [Making A New Branch](#making-a-new-branch)
+- [Setting Your Git Username And Email](#setting-your-git-username-and-email)
 - [Adding A Remote Repository](#adding-a-remote-repository)
+- [Making A New Branch](#making-a-new-branch)
 - [How To Pull From A Branch](#how-to-pull-from-a-branch)
 - [How To Push To A Branch](#how-to-push-to-a-branch)
 - [Opening Jaiabot Repository And Branch From Terminal](#opening-jaiabot-repository-and-branch-from-terminal)
 - [Viewing Commit History](#viewing-commit-history)
 - [Checking The Status Of Your Git Repository](#checking-the-status-of-your-git-repository)
-- [How To Merge TWO Branches](#how-to-merge-two-branches)
+- [How To Merge Two Branches](#how-to-merge-two-branches)
 - [How To Fix Merge Conflict](#how-to-fix-merge-conflict)
 - [Undoing Changes](#undoing-changes)
 - [Redoing Changes](#redoing-changes)
@@ -55,6 +56,21 @@ ssh -T git@github.com
 1. Clone a repo from terminal
 ```
 git clone https://github.com/UserName/nameOfRepo
+```
+
+<br>
+<a id="setting-your-git-username-and-email"></a>
+
+# Setting Your Git Username And Email
+1. Set your global name and email 
+```
+# This applies to all repos
+git config --global user.name "Your Name"
+git config --global user.email "your_email@example.com"
+```
+2. If you've already made a commit and want to fix author info
+```
+git commit --amend --reset-author
 ```
 
 <br>
