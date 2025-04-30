@@ -26,8 +26,26 @@ http://172.22.203.139:40011
   </tr>
   <tr>
     <td valign="top">Load Plot Set</td>
-    <td valign="top"><img src="https://raw.githubusercontent.com/jaiarobotics/jaiabot/task/update-environment-setup-documentation/src/web/jdv/client/src/images/Load%20Plot%20Set.png" alt="Add Plot" style="width: 50px; height: auto;"></td>
+    <td valign="top"><img src="https://raw.githubusercontent.com/jaiarobotics/jaiabot/task/update-environment-setup-documentation/src/web/jdv/client/src/images/Load%20Plot%20Set.png" alt="Load Plot Set" style="width: 50px; height: auto;"></td>
     <td valign="top">Load a saved plot set to visualize this bot data on the map</td>
+  </tr>
+  <tr>
+    <td valign="top">Save Plot Set</td>
+    <td valign="top"><img src= "https://raw.githubusercontent.com/jaiarobotics/jaiabot/task/update-environment-setup-documentation/src/web/jdv/client/src/images/Save%20Plot%20Set.png"
+     alt="Save Plot Set" style="width: 50px; height: auto;"></td>
+    <td valign="top">save plot set, that can be loaded later</td>
+  </tr>
+  <tr>
+    <td valign="top">Save Plot Set</td>
+    <td valign="top"><img src= "https://raw.githubusercontent.com/jaiarobotics/jaiabot/task/update-environment-setup-documentation/src/web/jdv/client/src/images/Save%20Plot%20Set.png"
+     alt="Add Plot" style="width: 50px; height: auto;"></td>
+    <td valign="top">save plot set, that can be loaded later</td>
+  </tr>
+  <tr>
+    <td valign="top"> Download CSV</td>
+    <td valign="top"><img src= "https://raw.githubusercontent.com/jaiarobotics/jaiabot/task/update-environment-setup-documentation/src/web/jdv/client/src/images/Save%20Plot%20Set.png"
+     alt="Add Plot" style="width: 50px; height: auto;"></td>
+    <td valign="top">save plot set, that can be loaded later</td>
   </tr>
 </table>
 
