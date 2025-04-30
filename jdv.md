@@ -13,14 +13,14 @@ http://172.22.203.139:40011
 # JDV Interface: Button Functions Explained
 <table>
   <tr>
-    <th>Button</th>
+    <th>Button Name</th>
     <th>Image</th>
     <th>Description</th>
   </tr>
   <tr>
-    <td>System Check All Bots</td>
-    <td><img src="https://raw.githubusercontent.com/Kait211/Practice/main/Add%20Plot.png" alt="System Check All Bots" style="width: 50px; height: auto;"></td>
-    <td>Run a system check on all bots in the pod. Missions can only be run after the system check completes successfully.</td>
+    <td>Add Plot</td>
+    <td><img src="https://raw.githubusercontent.com/jaiarobotics/jaiabot/task/update-environment-setup-documentation/src/web/jdv/client/src/images/Add%20Plot.png" alt="Add Plot" style="width: 50px; height: auto;"></td>
+    <td>not done just testing right now what it looks like</td>
   </tr>
 </table>
 
