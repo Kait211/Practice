@@ -22,30 +22,30 @@ http://172.22.203.139:40011
   <tr>
     <td valign="top">Add Plot</td>
     <td valign="top"><img src="https://raw.githubusercontent.com/jaiarobotics/jaiabot/task/update-environment-setup-documentation/src/web/jdv/client/src/images/Add%20Plot.png" alt="Add Plot" style="width: 50px; height: auto;"></td>
-    <td valign="top">Add plots to the map to visualize data of bots</td>
+    <td valign="top">Add plots to the map to visualize bot data</td>
   </tr>
   <tr>
     <td valign="top">Load Plot Set</td>
     <td valign="top"><img src="https://raw.githubusercontent.com/jaiarobotics/jaiabot/task/update-environment-setup-documentation/src/web/jdv/client/src/images/Load%20Plot%20Set.png" alt="Load Plot Set" style="width: 50px; height: auto;"></td>
-    <td valign="top">Load a saved plot set to visualize this bot data on the map</td>
+    <td valign="top">Load a saved plot set to visualize bot data on the map</td>
   </tr>
   <tr>
     <td valign="top">Save Plot Set</td>
     <td valign="top"><img src= "https://raw.githubusercontent.com/jaiarobotics/jaiabot/task/update-environment-setup-documentation/src/web/jdv/client/src/images/Save%20Plot%20Set.png"
      alt="Save Plot Set" style="width: 50px; height: auto;"></td>
-    <td valign="top">save plot set, that can be loaded later</td>
+    <td valign="top">Save the current plot set for later retrieval</td>
   </tr>
   <tr>
-    <td valign="top">Save Plot Set</td>
-    <td valign="top"><img src= "https://raw.githubusercontent.com/jaiarobotics/jaiabot/task/update-environment-setup-documentation/src/web/jdv/client/src/images/Save%20Plot%20Set.png"
-     alt="Add Plot" style="width: 50px; height: auto;"></td>
-    <td valign="top">save plot set, that can be loaded later</td>
+    <td valign="top">Download CSV</td>
+    <td valign="top"><img src= "https://raw.githubusercontent.com/jaiarobotics/jaiabot/task/update-environment-setup-documentation/src/web/jdv/client/src/images/Download%20CSV.png"
+     alt="Download CSV" style="width: 50px; height: auto;"></td>
+    <td valign="top">Download plot set data into a CSV file</td>
   </tr>
   <tr>
-    <td valign="top"> Download CSV</td>
-    <td valign="top"><img src= "https://raw.githubusercontent.com/jaiarobotics/jaiabot/task/update-environment-setup-documentation/src/web/jdv/client/src/images/Save%20Plot%20Set.png"
-     alt="Add Plot" style="width: 50px; height: auto;"></td>
-    <td valign="top">save plot set, that can be loaded later</td>
+    <td valign="top">Clear Plots</td>
+    <td valign="top"><img src= "https://raw.githubusercontent.com/jaiarobotics/jaiabot/task/update-environment-setup-documentation/src/web/jdv/client/src/images/Clear%20Plots.png"
+     alt="Clear Plots" style="width: 50px; height: auto;"></td>
+    <td valign="top">Clear all plots from the JDV interface</td>
   </tr>
 </table>
 
