@@ -2,15 +2,17 @@
 
 The JaiaBot Data Vision system is a web server that allows client browsers to plot data graphs and maps, generated from .goby / .h5 files that are stored on the server.
 
-##  Launching the JDV web interface
+## Launching the JDV web interface
+
 ```
 cd /path/to/jaiabot/src/web/jdv
 ./run.sh
-# Then in browser enter link 
+# Then in browser enter link
 http://172.22.203.139:40011
 ```
 
 # JDV Interface: Button Functions Explained
+
 <table>
   <tr>
     <th>Button Name</th>
@@ -18,14 +20,19 @@ http://172.22.203.139:40011
     <th>Description</th>
   </tr>
   <tr>
-    <td>Add Plot</td>
-    <td><img src="https://raw.githubusercontent.com/jaiarobotics/jaiabot/task/update-environment-setup-documentation/src/web/jdv/client/src/images/Add%20Plot.png" alt="Add Plot" style="width: 50px; height: auto;"></td>
-    <td>not done just testing right now what it looks like</td>
+    <td valign="top">Add Plot</td>
+    <td valign="top"><img src="https://raw.githubusercontent.com/jaiarobotics/jaiabot/task/update-environment-setup-documentation/src/web/jdv/client/src/images/Add%20Plot.png" alt="Add Plot" style="width: 50px; height: auto;"></td>
+    <td valign="top">Add plots to the map to visualize data of bots</td>
+  </tr>
+  <tr>
+    <td valign="top">Load Plot Set</td>
+    <td valign="top"><img src="https://raw.githubusercontent.com/jaiarobotics/jaiabot/task/update-environment-setup-documentation/src/web/jdv/client/src/images/Load%20Plot%20Set.png" alt="Add Plot" style="width: 50px; height: auto;"></td>
+    <td valign="top">Load a saved plot set to visualize this bot data on the map</td>
   </tr>
 </table>
 
-
 # Jaiabot software
+
 For instructions for how to running JDV with the bot_offload log directory refer to https://github.com/jaiarobotics/jaiabot/blob/1.y/src/doc/markdown/page120_working_with_jaia_software.md
 
 ## Overview
@@ -33,4 +40,5 @@ For instructions for how to running JDV with the bot_offload log directory refer
 The Jaiabot Data Vision is directly launched using a script (run.sh) that starts both the Flask API and the React frontend server
 
 ### JDV Web App
+
 The run.sh script launches a Flask application which implements a REST API for getting log data and data series from the `goby` and `.h5` files in the `~/jaia-logs/bot_offload` directory. It also serves a browser-based client application built with React. The frontend is automatically built and placed in the `~/jaiabot/build/web_dev/jdv` when running run.sh. No manual React build step is needed.
