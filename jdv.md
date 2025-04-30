@@ -11,8 +11,8 @@ cd /path/to/jaiabot/src/web/jdv
 http://172.22.203.139:40011
 ```
 
-# JDV Interface:
-## Plot controls explained
+# JDV Interface: 
+### Plot Controls Explained
 
 <table>
   <tr>
@@ -49,6 +49,20 @@ http://172.22.203.139:40011
     <td valign="top">Clear all plots from the JDV interface</td>
   </tr>
 </table>
+
+### Map Controls Explained
+<table>
+  <tr>
+    <th>Button Name</th>
+    <th>Image</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td valign="top">Layer Switch Toggler</td>
+    <td valign="top"><img src="https://raw.githubusercontent.com/jaiarobotics/jaiabot/task/update-environment-setup-documentation/src/web/jdv/client/src/images/Layer%20Switch%20Toggler.png" alt="Layer Switch Toggler" alt="Layer Switch Toggler" style="width: 50px; height: auto;"></td>
+    <td valign="top">Switch between Base map and different layers of data displayed on the map</td>
+  </tr>
+  </table>
 
 # Jaiabot software
 
