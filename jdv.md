@@ -19,7 +19,7 @@ http://172.22.203.139:40011
   </tr>
   <tr>
     <td>System Check All Bots</td>
-    <td><img src="https://raw.githubusercontent.com/Kait211/Practice/main/Add%20Plot.png" alt="System Check All Bots" style="width: 100px; height: auto;"></td>
+    <td><img src="https://raw.githubusercontent.com/Kait211/Practice/main/Add%20Plot.png" alt="System Check All Bots" style="width: 50px; height: auto;"></td>
     <td>Run a system check on all bots in the pod. Missions can only be run after the system check completes successfully.</td>
   </tr>
 </table>
