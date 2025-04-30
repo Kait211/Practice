@@ -11,7 +11,8 @@ cd /path/to/jaiabot/src/web/jdv
 http://172.22.203.139:40011
 ```
 
-# JDV Interface: Button Functions Explained
+# JDV Interface:
+## Plot controls explained
 
 <table>
   <tr>
