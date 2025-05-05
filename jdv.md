@@ -22,7 +22,7 @@ http://172.22.203.139:40011
   </tr>
   <tr>
     <td valign="top">Add Plot</td>
-    <td valign="top"><img src="https://raw.githubusercontent.com/jaiarobotics/jaiabot/task/update-environment-setup-documentation/src/web/jdv/client/src/images/Add%20Plot.png" alt="Add Plot" style="width: 25px; height: auto;"></td>
+    <td valign="top"><img src="https://raw.githubusercontent.com/jaiarobotics/jaiabot/task/update-environment-setup-documentation/src/web/jdv/client/src/images/Add%20Plot.png" alt="Add Plot" style="width: 35px; height: auto;"></td>
     <td valign="top">Add plots to the map to visualize bot data</td>
   </tr>
   <tr>
