@@ -59,13 +59,28 @@ http://172.22.203.139:40011
   </tr>
   <tr>
     <td valign="top">Layer Switch Toggler</td>
-    <td valign="top"><img src="https://raw.githubusercontent.com/jaiarobotics/jaiabot/task/update-environment-setup-documentation/src/web/jdv/client/src/images/Layer%20Switch%20Toggler.png" alt="Layer Switch Toggler" alt="Layer Switch Toggler" style="width: 70px; height: auto;"></td>
+    <td valign="top"><img src="https://raw.githubusercontent.com/jaiarobotics/jaiabot/task/update-environment-setup-documentation/src/web/jdv/client/src/images/Layer%20Switch%20Toggler.png" alt="Layer Switch Toggler" style="width: 70px; height: auto;"></td>
     <td valign="top">Switch between Base map and different layers of data displayed on the map</td>
   </tr>
   <tr>
-    <td valign="top">KML Export</td>
-    <td valign="top"><img src="https://raw.githubusercontent.com/jaiarobotics/jaiabot/task/update-environment-setup-documentation/src/web/jdv/client/src/images/KML%20Export%20Button.png" alt="Layer Switch Toggler" alt="KML Export" style="width: 70px; height: auto;"></td>
+    <td valign="top">KMZ Export</td>
+    <td valign="top"><img src="https://raw.githubusercontent.com/jaiarobotics/jaiabot/task/update-environment-setup-documentation/src/web/jdv/client/src/images/KML%20Export%20Button.png" alt="KML Export" style="width: 70px; height: auto;"></td>
     <td valign="top">Export the plotted data as a KML file for use in mapping applications</td>
+  </tr>
+  <tr>
+    <td valign="top">KMZ Import</td>
+    <td valign="top"><img src="https://raw.githubusercontent.com/jaiarobotics/jaiabot/task/update-environment-setup-documentation/src/web/jdv/client/src/images/KML%20Import%20Button.png" alt="KML Export" style="width: 70px; height: auto;"></td>
+    <td valign="top">Import the plotted data as a KML file for future use in mapping applications</td>
+  </tr>
+   <tr>
+    <td valign="top">Map</td>
+    <td valign="top"><img src="https://raw.githubusercontent.com/jaiarobotics/jaiabot/task/update-environment-setup-documentation/src/web/jdv/client/src/images/Map%20Button.png" alt="KML Export" style="width: 70px; height: auto;"></td>
+    <td valign="top">Measures distance between two or more points</td>
+  </tr>
+  <tr>
+    <td valign="top">Clear Map</td>
+    <td valign="top"><img src="https://raw.githubusercontent.com/jaiarobotics/jaiabot/task/update-environment-setup-documentation/src/web/jdv/client/src/images/Clear%20Map%20Button.png" alt="KML Export" style="width: 70px; height: auto;"></td>
+    <td valign="top">Clears the map of all plots</td>
   </tr>
   </table>
 
