@@ -79,7 +79,7 @@ http://172.22.203.139:40011
   </tr>
   <tr>
     <td valign="top">Clear Map</td>
-    <td valign="top"><img src="https://raw.githubusercontent.com/jaiarobotics/jaiabot/task/update-environment-setup-documentation/src/web/jdv/client/src/images/Clear%20Map%20Button.png" alt="KML Export" style="width: 70px; height: auto;"></td>
+    <td valign="top"><img src="https://raw.githubusercontent.com/jaiarobotics/jaiabot/task/update-environment-setup-documentation/src/web/jdv/client/src/images/Clear%20Map%20Button.png" alt="KML Export" style="width: 70px; height: 35px;"></td>
     <td valign="top">Clears the map of all plots</td>
   </tr>
   </table>
