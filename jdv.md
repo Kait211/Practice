@@ -59,12 +59,12 @@ http://172.22.203.139:40011
   </tr>
   <tr>
     <td valign="top">Layer Switch Toggler</td>
-    <td valign="top"><img src="https://raw.githubusercontent.com/jaiarobotics/jaiabot/task/update-environment-setup-documentation/src/web/jdv/client/src/images/Layer%20Switch%20Toggler.png" alt="Layer Switch Toggler" alt="Layer Switch Toggler" style="width: 100px; height: auto;"></td>
+    <td valign="top"><img src="https://raw.githubusercontent.com/jaiarobotics/jaiabot/task/update-environment-setup-documentation/src/web/jdv/client/src/images/Layer%20Switch%20Toggler.png" alt="Layer Switch Toggler" alt="Layer Switch Toggler" style="width: 50px; height: auto;"></td>
     <td valign="top">Switch between Base map and different layers of data displayed on the map</td>
   </tr>
   <tr>
     <td valign="top">KML Export</td>
-    <td valign="top"><img src="https://raw.githubusercontent.com/jaiarobotics/jaiabot/task/update-environment-setup-documentation/src/web/jdv/client/src/images/KML%20Export%20Button.png" alt="Layer Switch Toggler" alt="KML Export" style="width: 100px; height: auto;"></td>
+    <td valign="top"><img src="https://raw.githubusercontent.com/jaiarobotics/jaiabot/task/update-environment-setup-documentation/src/web/jdv/client/src/images/KML%20Export%20Button.png" alt="Layer Switch Toggler" alt="KML Export" style="width: 50px; height: auto;"></td>
     <td valign="top">Export the plotted data as a KML file for use in mapping applications</td>
   </tr>
   </table>
