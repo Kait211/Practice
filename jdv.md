@@ -28,25 +28,25 @@ http://172.22.203.139:40011
   <tr>
     <td valign="top">Load Plot Set</td>
     <td valign="top"><img src="https://raw.githubusercontent.com/jaiarobotics/jaiabot/task/update-environment-setup-documentation/src/web/jdv/client/src/images/Load%20Plot%20Set.png" alt="Load Plot Set" style="width: 50px; height: 40px;"></td>
-    <td valign="top">Load a saved plot set to visualize bot data on the map</td>
+    <td valign="top">Load saved plot sets to visualize bot data on the map</td>
   </tr>
   <tr>
     <td valign="top">Save Plot Set</td>
     <td valign="top"><img src= "https://raw.githubusercontent.com/jaiarobotics/jaiabot/task/update-environment-setup-documentation/src/web/jdv/client/src/images/Save%20Plot%20Set.png"
      alt="Save Plot Set" style="width: 50px; height: 40px;"></td>
-    <td valign="top">Save the current plot set for later retrieval</td>
+    <td valign="top">Save current plot sets for later retrieval</td>
   </tr>
   <tr>
     <td valign="top">Download CSV</td>
     <td valign="top"><img src= "https://raw.githubusercontent.com/jaiarobotics/jaiabot/task/update-environment-setup-documentation/src/web/jdv/client/src/images/Download%20CSV.png"
      alt="Download CSV" style="width: 50px; height: auto;"></td>
-    <td valign="top">Download plot set data into a CSV file</td>
+    <td valign="top">Download plot sets' data into a CSV file</td>
   </tr>
   <tr>
     <td valign="top">Clear Plots</td>
     <td valign="top"><img src= "https://raw.githubusercontent.com/jaiarobotics/jaiabot/task/update-environment-setup-documentation/src/web/jdv/client/src/images/Clear%20Plots.png"
      alt="Clear Plots" style="width: 50px; height: auto;"></td>
-    <td valign="top">Clear all plots from the JDV interface</td>
+    <td valign="top">Clear all plot sets from the JDV interface</td>
   </tr>
 </table>
 
@@ -65,28 +65,28 @@ http://172.22.203.139:40011
   <tr>
     <td valign="top">KMZ Export</td>
     <td valign="top"><img src="https://raw.githubusercontent.com/jaiarobotics/jaiabot/task/update-environment-setup-documentation/src/web/jdv/client/src/images/KML%20Export%20Button.png" alt="KML Export" style="width: 70px; height: auto;"></td>
-    <td valign="top">Export the plotted data as a KML file for use in mapping applications</td>
+    <td valign="top">Export the plotted sets' data as a KMZ file for use in mapping applications</td>
   </tr>
   <tr>
     <td valign="top">KMZ Import</td>
-    <td valign="top"><img src="https://raw.githubusercontent.com/jaiarobotics/jaiabot/task/update-environment-setup-documentation/src/web/jdv/client/src/images/KML%20Import%20Button.png" alt="KML Export" style="width: 70px; height: auto;"></td>
-    <td valign="top">Import the plotted data as a KML file for future use in mapping applications</td>
+    <td valign="top"><img src="https://raw.githubusercontent.com/jaiarobotics/jaiabot/task/update-environment-setup-documentation/src/web/jdv/client/src/images/KML%20Import%20Button.png" alt="KML Import" style="width: 70px; height: auto;"></td>
+    <td valign="top">Import the plotted sets' data as a KMZ file for future use in mapping applications</td>
   </tr>
    <tr>
     <td valign="top">Map</td>
-    <td valign="top"><img src="https://raw.githubusercontent.com/jaiarobotics/jaiabot/task/update-environment-setup-documentation/src/web/jdv/client/src/images/Map%20Button.png" alt="KML Export" style="width: 70px; height: 35px;"></td>
-    <td valign="top">Measures distance between two or more points</td>
+    <td valign="top"><img src="https://raw.githubusercontent.com/jaiarobotics/jaiabot/task/update-environment-setup-documentation/src/web/jdv/client/src/images/Map%20Button.png" alt="Map" style="width: 70px; height: 35px;"></td>
+    <td valign="top">Measures distance between two or more points on the map</td>
   </tr>
   <tr>
     <td valign="top">Clear Map</td>
-    <td valign="top"><img src="https://raw.githubusercontent.com/jaiarobotics/jaiabot/task/update-environment-setup-documentation/src/web/jdv/client/src/images/Clear%20Map%20Button.png" alt="KML Export" style="width: 70px; height: 35px;"></td>
-    <td valign="top">Clears the map of all plots</td>
+    <td valign="top"><img src="https://raw.githubusercontent.com/jaiarobotics/jaiabot/task/update-environment-setup-documentation/src/web/jdv/client/src/images/Clear%20Map%20Button.png" alt="Clear Map" style="width: 70px; height: 35px;"></td>
+    <td valign="top">Clears the map of all plot sets</td>
   </tr>
   </table>
 
 # Jaiabot software
 
-For instructions for how to running JDV with the bot_offload log directory refer to https://github.com/jaiarobotics/jaiabot/blob/1.y/src/doc/markdown/page120_working_with_jaia_software.md
+For instructions for how to run JDV with the bot_offload log directory refer to https://github.com/jaiarobotics/jaiabot/blob/1.y/src/doc/markdown/page120_working_with_jaia_software.md
 
 ## Overview
 
