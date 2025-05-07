@@ -28,8 +28,12 @@ http://localhost:40001
 ```
 
 4. Click on Hub button
+```
 ![HUB Button](https://github.com/jaiarobotics/jaiabot/blob/task/update-environment-setup-documentation/src/web/jed/HUB_Button.png?raw=true)
+```
 
 5. Click on JED button
+```
 ![JED Button](https://github.com/jaiarobotics/jaiabot/blob/task/update-environment-setup-documentation/src/web/jed/JED_Button.png?raw=true)
+```
 
