@@ -28,7 +28,7 @@ http://172.22.203.139:40011
   <tr>
     <td valign="top">Load Plot Set</td>
     <td valign="top"><img src="https://raw.githubusercontent.com/jaiarobotics/jaiabot/task/update-environment-setup-documentation/src/web/jdv/client/src/images/Load%20Plot%20Set.png" alt="Load Plot Set" style="width: 50px; height: 40px;"></td>
-    <td valign="top">Load a saved plot set to visualize bot data on the map</td>
+    <td valign="top">Loads a saved plot set to visualize bot data on the map</td>
   </tr>
   <tr>
     <td valign="top">Save Plot Set</td>
