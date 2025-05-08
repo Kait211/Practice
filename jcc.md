@@ -130,3 +130,26 @@ http://localhost:40001
     <td valign="top"><img src="https://raw.githubusercontent.com/jaiarobotics/jaiabot/task/update-environment-setup-documentation/src/web/jcc/Restart.png" alt="Restart" style="width: 50px; height: 40px;"></td>
     <td valign="top">Restart the Hub.</td>
   </tr>
+  <tr>
+    <td valign="top">JDV</td>
+    <td valign="top"><img src="https://raw.githubusercontent.com/jaiarobotics/jaiabot/task/update-environment-setup-documentation/src/web/jcc/JDV.png" alt="JDV" style="width: 50px; height: 40px;"></td>
+    <td valign="top">Link for Jaia Data Vision (JDV).</td>
+  </tr>
+  <tr>
+    <td valign="top">JED</td>
+    <td valign="top"><img src="https://raw.githubusercontent.com/jaiarobotics/jaiabot/task/update-environment-setup-documentation/src/web/jcc/JED.png" alt="JED" style="width: 50px; height: 40px;"></td>
+    <td valign="top">Link for Jaia Engineering and Debugging (JED)</td>
+  </tr>
+  <tr>
+    <td valign="top">Router</td>
+    <td valign="top"><img src="https://raw.githubusercontent.com/jaiarobotics/jaiabot/task/update-environment-setup-documentation/src/web/jcc/Router.png" alt="Router" style="width: 50px; height: 40px;"></td>
+    <td valign="top">Link for router.</td>
+  </tr>
+  <tr>
+    <td valign="top">Upgrade</td>
+    <td valign="top"><img src="https://raw.githubusercontent.com/jaiarobotics/jaiabot/task/update-environment-setup-documentation/src/web/jcc/Upgrade.png" alt="Upgrade" style="width: 50px; height: 40px;"></td>
+    <td valign="top">Link for upgrades.</td>
+  </tr>
+</table>
+
+# Bot Commands
