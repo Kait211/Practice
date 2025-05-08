@@ -42,7 +42,7 @@ http://localhost:40001
     <td valign="top">Run a system check on all bots in the pod. Missions can only be run after the system check completes successfully.</td>
   </tr>
     <tr>
-    <td valign="top">Stop ALL Missions</td>
+    <td valign="top">Stop All Missions</td>
     <td valign="top"><img src="https://raw.githubusercontent.com/jaiarobotics/jaiabot/task/update-environment-setup-documentation/src/web/jcc/Stop%20All%20Missions.png" alt="Stop ALL Missions" style="width: 50px; height: 40px;"></td>
     <td valign="top">Order all bots to stop their currently running missions.</td>
   </tr>
@@ -173,4 +173,9 @@ http://localhost:40001
     <td valign="top">Clear Mission</td>
     <td valign="top"><img src="https://raw.githubusercontent.com/jaiarobotics/jaiabot/task/update-environment-setup-documentation/src/web/jcc/Clear%20Mission.png" alt="Run Mission" style="width: 50px; height: 40px;"></td>
     <td valign="top">Clear mission for a chosen bot.</td>
+  </tr>
+  <tr>
+    <td valign="top">RC mode</td>
+    <td valign="top"><img src="https://raw.githubusercontent.com/jaiarobotics/jaiabot/task/update-environment-setup-documentation/src/web/jcc/RC%20mode.png" alt="RC mode" style="width: 50px; height: 40px;"></td>
+    <td valign="top">	Romote controller to control Manual Dual, Manual Single, and Dive. User can use throttle to move forward/backwards and rudder to change direction.</td>
   </tr>
