@@ -42,8 +42,23 @@ http://localhost:40001
   </tr>
     <tr>
     <td valign="top">Stop ALL Missions</td>
-    <td valign="top"><img src="https://raw.githubusercontent.com/jaiarobotics/jaiabot/task/update-environment-setup-documentation/src/web/jcc/Undo.png" alt="Stop ALL Missions" style="width: 50px; height: 40px;"></td>
+    <td valign="top"><img src="https://raw.githubusercontent.com/jaiarobotics/jaiabot/task/update-environment-setup-documentation/src/web/jcc/Stop%20All%20Missions.png" alt="Stop ALL Missions" style="width: 50px; height: 40px;"></td>
     <td valign="top">Order all bots to stop their currently running missions.</td>
+  </tr>
+   <tr>
+    <td valign="top">Run Mission</td>
+    <td valign="top"><img src="https://raw.githubusercontent.com/jaiarobotics/jaiabot/task/update-environment-setup-documentation/src/web/jcc/Run%20All%20Missions.png" alt="Run Mission" style="width: 50px; height: 40px;"></td>
+    <td valign="top">Run the mission as currently edited on the map.</td>
+  </tr>
+  <tr>
+    <td valign="top">Download All</td>
+    <td valign="top"><img src="https://raw.githubusercontent.com/jaiarobotics/jaiabot/task/update-environment-setup-documentation/src/web/jcc/Download%20All.png" alt="Download All" style="width: 50px; height: 40px;"></td>
+    <td valign="top">Start downloading log and sensor data from all of the bots to the hub.</td>
+  </tr>
+  <tr>
+    <td valign="top">Undo</td>
+    <td valign="top"><img src="https://raw.githubusercontent.com/jaiarobotics/jaiabot/task/update-environment-setup-documentation/src/web/jcc/Stop%20All%20Missions.png" alt="Undo" style="width: 50px; height: 40px;"></td>
+    <td valign="top">Undo the last 10 mission planning actions (excluding Task modifications).</td>
   </tr>
   <tr>
     <td valign="top">Mission Panel</td>
