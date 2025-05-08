@@ -47,8 +47,8 @@ http://localhost:40001
     <td valign="top">Order all bots to stop their currently running missions.</td>
   </tr>
    <tr>
-    <td valign="top">Run Mission</td>
-    <td valign="top"><img src="https://raw.githubusercontent.com/jaiarobotics/jaiabot/task/update-environment-setup-documentation/src/web/jcc/Run%20All%20Missions.png" alt="Run Mission" style="width: 50px; height: 40px;"></td>
+    <td valign="top">Run All Missions</td>
+    <td valign="top"><img src="https://raw.githubusercontent.com/jaiarobotics/jaiabot/task/update-environment-setup-documentation/src/web/jcc/Run%20All%20Missions.png" alt="Run All Missions" style="width: 50px; height: 40px;"></td>
     <td valign="top">Run the mission as currently edited on the map.</td>
   </tr>
   <tr>
@@ -153,3 +153,24 @@ http://localhost:40001
 </table>
 
 # Bot Commands
+<table>
+  <tr>
+    <th>Button Name</th>
+    <th>Image</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td valign="top">Stop Mission</td>
+    <td valign="top"><img src="https://raw.githubusercontent.com/jaiarobotics/jaiabot/task/update-environment-setup-documentation/src/web/jcc/Stop%20Mission.png" alt="Stop Mission" style="width: 50px; height: 40px;"></td>
+    <td valign="top">Stop mission for a chosen bot.</td>
+  </tr>
+  <tr>
+    <td valign="top">Run Mission</td>
+    <td valign="top"><img src="https://raw.githubusercontent.com/jaiarobotics/jaiabot/task/update-environment-setup-documentation/src/web/jcc/Run%20All%20Missions.png" alt="Run Mission" style="width: 50px; height: 40px;"></td>
+    <td valign="top">Play mission for a chosen bot.</td>
+  </tr>
+   <tr>
+    <td valign="top">Clear Mission</td>
+    <td valign="top"><img src="https://raw.githubusercontent.com/jaiarobotics/jaiabot/task/update-environment-setup-documentation/src/web/jcc/Clear%20Mission.png" alt="Run Mission" style="width: 50px; height: 40px;"></td>
+    <td valign="top">Clear mission for a chosen bot.</td>
+  </tr>
