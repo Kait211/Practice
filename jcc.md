@@ -106,3 +106,27 @@ http://localhost:40001
     <td valign="top"><img src="https://raw.githubusercontent.com/jaiarobotics/jaiabot/task/update-environment-setup-documentation/src/web/jcc/Zoom%20Out.png" alt="Zoom out" style="width: 50px; height: 40px;"></td>
     <td valign="top">Decrease the map's magnification.</td>
   </tr>
+  </table>
+
+  # Hub Commands
+  <table>
+  <tr>
+    <th>Button Name</th>
+    <th>Image</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td valign="top">Shutdown</td>
+    <td valign="top"><img src="https://raw.githubusercontent.com/jaiarobotics/jaiabot/task/update-environment-setup-documentation/src/web/jcc/Shutdown.png" alt="ShutDown" style="width: 50px; height: 40px;"></td>
+    <td valign="top">Shutdowns the system for the Hub.</td>
+  </tr>
+  <tr>
+    <td valign="top">Reboot</td>
+    <td valign="top"><img src="https://raw.githubusercontent.com/jaiarobotics/jaiabot/task/update-environment-setup-documentation/src/web/jcc/Reboot.png" alt="Reboot" style="width: 50px; height: 40px;"></td>
+    <td valign="top">Reboots the Hub.</td>
+  </tr>
+  <tr>
+    <td valign="top">Restart</td>
+    <td valign="top"><img src="https://raw.githubusercontent.com/jaiarobotics/jaiabot/task/update-environment-setup-documentation/src/web/jcc/Restart.png" alt="Restart" style="width: 50px; height: 40px;"></td>
+    <td valign="top">Restart the Hub.</td>
+  </tr>
