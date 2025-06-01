@@ -2,6 +2,7 @@
 
 ### Table of Contents:
 - [Creating A SSH Key](#creating-a-ssh-key)
+- [Creating A Token](#creating-a-token)
 - [Cloning A Repository](#cloning-a-repository)
 - [Setting Your Git Username And Email](#setting-your-git-username-and-email)
 - [Adding A Remote Repository](#adding-a-remote-repository)
@@ -48,6 +49,21 @@ ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIM3NGaqFmDpDATu/AP4uVi/2KBHYlI14A1iptVF3AbwG
 ssh -T git@github.com
 # If key was created correctly the output should be Hi GitHub_username! You've successfully authenticated, but GitHub does not provide shell access.
 ```
+
+<br>
+<a id="creating-a-token"></a>
+
+# Creating A Token
+1. go to GitHub and log in as your user
+2. Click on avatar
+3. Click on settings
+4. Click on Developer Settings
+5. Click on Personal access Tokens
+6. Click on Tokens (classic)
+7. Click on Generate new token classic
+8. Name token
+9. Click on all boxes
+10. Copy token save to a safe place because otherwise it will be lost
 
 <br>
 <a id="cloning-a-repository"></a>
