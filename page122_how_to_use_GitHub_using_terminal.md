@@ -176,6 +176,8 @@ git commit -m "message"
 ```
 git push origin branchName
 ```
+5. If using token 
+
 
 <br>
 <a id="opening-jaiabot-repository-and-branch-from-terminal"></a>
